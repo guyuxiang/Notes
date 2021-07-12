@@ -1,1 +1,2 @@
-the value of NFT
+the value of NFT.
+test
