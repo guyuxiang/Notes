@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3c18a913aa4a6322",
+        "id": "ed00cb9f86ccafb7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "todo.md",
+            "file": "商业模型研究/Startups/algorithmia.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "商业模型研究/Startups/algorithmia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3c18a913aa4a6322",
+  "active": "ed00cb9f86ccafb7",
   "lastOpenFiles": [
-    "todo.md"
+    "商业模型研究/Startups/algorithmia.md",
+    "商业模型研究/Startups/Untitled.md",
+    "商业模型研究/Startups/arthur.md",
+    "商业模型研究/Startups/H2O.md",
+    "商业模型研究/DataBricks.md",
+    "商业模型研究/Untitled.md",
+    "商业模型研究/DataRobot.md",
+    "商业模型研究/Startups/Jina.md",
+    "商业模型研究/Startups/comet.md",
+    "杂谈/大快人心.md"
   ]
 }

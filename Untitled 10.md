@@ -1,0 +1,3 @@
+Shows you someone's NFTs when you visit their profile on twitter. It uses HumanityDAO for the twitter => wallet mapping.
+
+This is a chrome extension that shows you people’s NFTs when you view their profiles on twitter. It's built on HumanityDAO and The Graph. The chrome extension pulls the twitter => ethereum address mapping from HumanityDAO, so a twitter user needs to be enrolled in HumanityDAO’s registry for their NFTs to show up on their twitter profile.
