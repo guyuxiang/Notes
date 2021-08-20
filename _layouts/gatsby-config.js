@@ -7,8 +7,8 @@ module.exports = {
   pathPrefix: PATH_PREFIX || `/`, // b. If you are using Netlify/Vercel, your can keep it this way
   siteMetadata: {
     // some SEO configs using by gatsby-theme-kb
-    title: `Foam`, // Replace it with your site's title
-    author: `Your Name`, // Replace it with your name
+    title: `Personal knowledge base`, // Replace it with your site's title
+    author: `Yuxiang Gu`, // Replace it with your name
     description: `My personal knowledge base`, // Replace it with your site's description
   },
   plugins: [
@@ -23,6 +23,7 @@ module.exports = {
           '**/.github/**',
           '**/.vscode/**',
           '**/.cache/**',
+          '**/_private/**',
         ],
         // this is an option for extending `gatsby-plugin-mdx` options inside `gatsby-theme-kb`,
         getPluginMdx(defaultPluginMdx) {
