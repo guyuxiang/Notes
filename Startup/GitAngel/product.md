@@ -1,0 +1,7 @@
+- ethereum
+- 需要接受捐款的地址
+- 需要合约
+- 钱捐给开源项目
+- primary：抽成比例：2.5%，opensea fee 2.5%
+- secondary：2.5%，opensea 2.5%， 
+- 

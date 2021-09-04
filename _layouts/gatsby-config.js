@@ -24,6 +24,8 @@ module.exports = {
           '**/.vscode/**',
           '**/.cache/**',
           '**/_private/**',
+          '**/_daily/**',
+          '**/_plan/**',
         ],
         // this is an option for extending `gatsby-plugin-mdx` options inside `gatsby-theme-kb`,
         getPluginMdx(defaultPluginMdx) {
