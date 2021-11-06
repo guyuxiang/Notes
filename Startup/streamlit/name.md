@@ -1,2 +1,0 @@
-deepdash.co
-deepbook.co
